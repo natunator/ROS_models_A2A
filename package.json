@@ -1,0 +1,25 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "This is a test dir to learn git and node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natunator/Rohit_A2A.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natunator/Rohit_A2A/issues"
+  },
+  "homepage": "https://github.com/natunator/Rohit_A2A#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "debug": "^4.2.0"
+  }
+}
